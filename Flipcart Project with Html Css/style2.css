@@ -1,0 +1,283 @@
+#main_container{
+    height:140px;
+    display:flex;
+    justify-content: space-evenly;
+}
+/* main content  first image divs block  */
+/* div1 */
+#categories_image1{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image1{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image1.webp");
+    background-size: cover;
+}
+#kilos{
+    color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 19px;
+    font-size: 17px;
+    font-family: Arial;
+}
+/* div2  */
+#categories_image2{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image2{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image2.webp");
+    background-size: cover;
+}
+#mobiles{
+    color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 19px;
+    font-size: 17px;
+    font-family: Arial;
+}
+/* div3 */
+#categories_image3{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image3{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image3.webp");
+    background-size: cover;
+}
+#fashion{
+    color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 1px;
+    font-size: 17px;
+    font-family: Arial;
+}
+#fashoin_select_button{
+    height:20px;
+    width:23px;
+    margin-top: 2px;
+    margin-left: 5px;
+    border:transparent;
+}
+/* div4 */
+#categories_image4{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image4{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image4.webp");
+    background-size: cover;
+}
+#Electronics{
+    color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 1px;
+    font-size: 17px;
+    font-family: Arial;
+}
+#electronics_select_button{
+    height:20px;
+    width:23px;
+    margin-top: 2px;
+    margin-left: 5px;
+    border:transparent;
+}
+/* div5 */
+#categories_image5{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image5{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image5.webp");
+    background-size: cover;
+}
+#home_furniture{
+    color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 1px;
+    font-size: 17px;
+    font-family: Arial;
+}
+#home_and_furniture_select_button{
+    height:20px;
+    width:23px;
+    margin-top: 2px;
+    margin-left: 5px;
+    border:transparent;
+}
+/* div6 */
+#categories_image6{
+   height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+    top:10px;
+}
+#image6{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image6.webp");
+    background-size: cover;
+}
+#Appliances_1{
+   color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 0.5px;
+    font-size: 17px;
+    font-family: Arial; 
+}
+/* div7 */
+#categories_image7{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+}
+#image7{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image7.webp");
+    background-size: cover;
+}
+#Flight_booking{
+   color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 0.5px;
+    font-size: 17px;
+    font-family: Arial; 
+}
+#text{
+    width:110px;
+    height:20px;
+    margin-top: 9.5px;
+    background-color: transparent;
+}
+/* div8 */
+#categories_image8{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+}
+#image8{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image8.png");
+    background-size: cover;
+}
+#toys_and_more{
+   color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 0.5px;
+    font-size: 17px;
+    font-family: Arial; 
+}
+#text2{
+    height:20px;
+    width:110px;
+    margin-top: 9.5px;
+}
+/* div9 */
+#categories_image9{
+    height: 117px;
+    width: 110px;
+    display:flex;
+    position:relative;
+}
+#image9{
+    height:80px;
+    width:80px;
+    display:flex;
+    position:relative;
+    top:10px;
+    left:14px;
+    background-image: url("image9.png");
+    background-size: cover;
+}
+#vehicels{
+   color:black;
+    display: flex;
+    position:relative;
+    top:91px;
+    left: 0.5px;
+    font-size: 17px;
+    font-family: Arial; 
+}
+#text3{
+    height:20px;
+    width:110px;
+    margin-top: 9.5px;
+}

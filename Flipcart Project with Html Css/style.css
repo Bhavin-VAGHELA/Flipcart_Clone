@@ -1,0 +1,113 @@
+
+#header{
+    height:67px;
+    /* background-color: lightblue;   */
+}
+#flipcart_logo{
+    height:50px;
+    width:190px;
+    display:flex;
+    position: relative;
+    top:10px;
+    left:9px;
+    padding-left: 20px;
+    background-image: url("flipcart.svg");
+    background-size: cover;
+}
+#search_button_div{
+    height:40px;
+    width:44px;
+    display:flex;
+    position:relative;
+    left:250px;
+    bottom:36.5px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#search_icon{
+    color:rgb(198, 224, 231);
+}
+#search_bar{
+    height:40px;
+    width: 650px;
+    background-color:rgb(198, 224, 231);
+    display:flex;
+    position:relative;
+    left:290px;
+    bottom:86.5px;
+}
+#text{
+    width:650px;
+    background-color: rgb(198, 224, 231);
+    border-radius: 5px;
+    border-color: transparent;
+}
+#login_icon_div{
+    height:30px;
+    width:30px;
+    display:flex;
+    position:relative;
+    left:960px;
+    bottom: 125px;
+    background-color: rgb(159, 75, 75);
+    border-radius: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
+#login_icon{
+    padding-left: 9px;
+    padding-top: 6.4px;
+}
+#login_button{
+    height:41px;
+    width:100px;
+    position:relative;
+    left:1000px;
+    bottom:162px;
+    font-size: 20px;
+    padding-left: 8px;
+    padding-top: 9.5px;
+    font-family: Arial;
+}
+#select_arrow_button{
+    border-color: transparent;
+}
+#my_cart_div{
+    height:35px;
+    width:105px;
+    display:flex;
+    position:relative;
+    left:1105px;
+    bottom: 216px;
+    margin-left:1px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#my_cart_name{
+    margin-left: 15px;
+    font-size: 20px;
+    display:flex;
+    position:relative;
+    bottom:3.5px;
+}
+#become_a_seller_div{
+    height:35px;
+    width:170px;
+    display:flex;
+    position:relative;
+    left:1250px;
+    bottom:260px;
+}
+#shop_logo{
+    display:flex;
+    position:relative;
+    top:7px;
+    left:8px;
+}
+#become_a_seller_name{
+    margin-left: 19px;
+    font-size: 18px;
+    display: flex;
+    position: relative;
+    top:5px;
+}

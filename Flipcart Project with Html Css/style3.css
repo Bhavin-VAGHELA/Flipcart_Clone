@@ -1,0 +1,245 @@
+#main_container2{
+    height:300px;
+    width:1512px; 
+    display:flex;
+    position:relative;
+    margin-top:10px;
+    justify-content: center;
+}
+#hot_deals{
+    height:270px;
+    width:1450px;
+    position:relative;
+    top:15px;
+    background-image: url("hot_deals.webp");
+    background-size: cover;
+}
+/* div main container 3 */
+#main_container3{
+    height:300px;
+    width:1200px;
+    /* background-color: aquamarine; */
+    display:flex;
+    position:relative;
+    left:30px;
+    justify-content: space-evenly;
+}
+
+#headphone{
+    height:200px;
+    width:172px;
+    position:relative;
+    top:52px;
+}
+#speaker{
+    height:200px;
+    width:172px;
+    position:relative;
+    top:52px;
+}
+#camera{
+    height:200px;
+    width:172px;
+    position:relative;
+    top:52px;
+}
+#trimmer{
+    height:200px;
+    width:172px;
+    position:relative;
+    top:52px;
+}
+#printer{
+    height:200px;
+    width:172px;
+    position:relative;
+    top:52px;
+}
+/* images divs */
+#headphone_image{
+    height:110px;
+    width:108px;
+    background-color: blueviolet;
+    position:relative;
+    left:32px;
+    top:20px;
+     background-image: url("headphone.jpg");
+    background-size: cover;
+}
+#headphone_name{
+    display:flex;
+    width:118px;
+    position:relative;
+    top:130px;
+    color:black;
+    font-size: 20px;
+}
+#speaker_image{
+    height:110px;
+    width:108px;
+    background-color: blueviolet;
+    position:relative;
+    left:32px;
+    top:20px;
+     background-image: url("speaker.jpg");
+    background-size: cover;
+}
+#speaker_name{
+    display:flex;
+    width:118px;
+    position:relative;
+    top:130px;
+    left:15px;
+    color:black;
+    font-size: 20px;
+}
+#camera_image{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:32px;
+    top:20px;
+     background-image: url("camera.jpg");
+    background-size: cover;
+}
+#camera_name{
+    display:flex;
+    width:118px;
+    position:relative;
+    top:130px;
+    left:15px;
+    color:black;
+    font-size: 20px;
+}
+#trimmer_image{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:32px;
+    top:24px;
+     background-image: url("trimmer.jpg");
+    background-size: cover;
+}
+#trimmer_name{
+    display:flex;
+    width:118px;
+    position:relative;
+    top:130px;
+    left:15px;
+    color:black;
+    font-size: 20px;
+}
+#printer_image{
+     height:110px;
+    width:108px;
+    position:relative;
+    left:32px;
+    top:24px;
+     background-image: url("printer.jpg");
+    background-size: cover;
+}
+#printer_name{
+    display:flex;
+    width:118px;
+    position:relative;
+    top:130px;
+    left:30px;
+    color:black;
+    font-size: 20px;
+}
+#flightbookingimage{
+    height:320px;
+    width:280px;
+    display:flex;
+    position: relative;
+    left:1200px;
+    bottom: 290px;
+    background-image: url("flightbookinginage.png");
+    background-size: cover;
+}
+#main_container4{
+    height:300px;
+    width:1480px;
+    display:flex;
+    position: relative;
+    bottom: 250px;
+}
+#main_container4_text{
+    height:20px;
+    font-size: 25px;
+    display:flex;
+    position: relative;
+    left:30px;
+    top:15px;
+}
+#main_container4_imagebox1{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    top:70px;
+    right:170px;
+}
+#main_container4_image1{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("batmanimage.webp");
+    background-size: cover;
+}
+#batmantext1{
+    display:flex;
+    position:relative;
+    top:130px;
+    font-size: 18px;
+}
+#main_container4_imagebox2{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    left:-70px;
+    top:70px;
+    right:170px;
+}
+#main_container4_image2{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("cofeeimage.webp");
+    background-size: cover;
+}
+#cofeeimagetext{
+    display:flex;
+    position:relative;
+    top:145px;
+    font-size: 18px;
+}
+#main_container4_imagebox3{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    left:40px;
+    top:70px;
+    right:170px;
+}
+#main_container4_image3{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("pencilimage.webp");
+    background-size: cover;
+}
+#stationaryimagetext{
+    display:flex;
+    position:relative;
+    top:130px;
+    font-size: 18px;
+}

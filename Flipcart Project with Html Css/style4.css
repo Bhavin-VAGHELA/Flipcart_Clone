@@ -1,0 +1,85 @@
+#main_container4_imagebox4{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    left:130px;
+    top:70px;
+    right:170px;
+}
+#main_container4_image4{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("gymimage.webp");
+    background-size: cover;
+}
+#gymimagetext{
+    display:flex;
+    position:relative;
+    top:130px;
+    font-size: 18px;
+    left:15px;
+}
+#main_container4_imagebox5{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    left:220px;
+    top:70px;
+    right:170px;
+}
+#main_container4_image5{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("carimage.webp");
+    background-size: cover;
+}
+#carimagetext{
+    display:flex;
+    position:relative;
+    top:140px;
+    font-size: 18px;
+    left:11px;
+}
+#main_container4_imagebox6{
+    height:210px;
+    width:156px;
+    display:flex;
+    position: relative;
+    left:270px;
+    top:70px;
+    right:170px;
+}
+#main_container4_image6{
+    height:110px;
+    width:108px;
+    position:relative;
+    left:22px;
+    top:8px;
+    background-image: url("teddyimage.webp");
+    background-size: cover;
+}
+#teddyimagetext{
+    display:flex;
+    position:relative;
+    top:140px;
+    font-size: 18px;
+    left:11px;
+}
+#main_container5footer{
+    height:600px;
+    width:1500px;
+    background-color: aquamarine;
+    display:flex;
+    position:relative;
+    bottom:220px;
+    background-image: url("footerimage.png");
+    background-size: cover;
+}
